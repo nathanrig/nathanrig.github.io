@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Curriculo</title>
+        </head>
+        <body bgcolor="darkseagreen">
+        
+             <h1 align="center"> Nathan Rigueira </h1> 
+             <div align="center"><img src="NATHAN_RIGUEIRA-8.jpg" alt="profile" width="200" height="200"> </div>
+
+            <h2 align="center">Perfil:</h2>
+            <h4 align="center">Sou brasileiro, nascido em 1998. Sou ator e modelo,<br> e atualmente curso Design Gráfico.<br> Busco um ambiente de trabalho que me permita <br>crescer e compartilhar ideias.</h4>
+            <br>
+    <h2> Formação Acadêmica:</h2>
+            <p>Graduação- Cursando <br>
+                Design Gráfico- Universidade veiga de almeida 
+            </p>
+            <h2>Cursos Complementares:</h2>
+           <p>Escola de atores Wolf Maya <br>
+               CCAA- Inglês e Espanhol<br>
+               Intercâmbio- Mar Del Plata, Argentina, <br> Colégio fasta, San Vicente
+            </p>
+            <h2> Qualificações:</h2>
+            <p>Inglês 
+                <br> Espanhol
+                <br> Pacote Office
+                <br> Illustrator</p>
+            <H2> Experiência Profissional</H2>
+            <p>Expositor na feira de suplementos Arnold Classic Brasil
+            <br> Expositor no estand olímpico da Coreia do sul<br> -Olímpiadas Rio 2016</p>
+            <h2> Telefone:</h2>
+            <p>(21)995992113</p>
+            <h2> Email:</h2>
+            <p> <a href="https://outlook.live.com/mail/inbox">nathan.rig@hotmail.com</a></p>
+    </body>
+</html>
